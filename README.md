@@ -1,6 +1,6 @@
 # Pitt Fuego
 
-Welcome to Pitt Fuego Lite! This repository will allow the user to mix and match div. blocks to build a quick website similar to an Adobe Spark. All of the design elements you need to make a great presentation/web page are embedded in the document. We've also provided hidden comments to help guide you through the process. 
+Welcome to Pitt Fuego Webtext Generator! This tool allows the user to mix and match div. blocks to build a quick website similar to an Adobe Spark. All of the design elements you need to make a great webtext or presentation are embedded in the document. We've also provided hidden comments to help guide you through the process. 
 
 We recommend you begin with one of our starter programs before using this one. 
 
@@ -9,7 +9,7 @@ We recommend you begin with one of our starter programs before using this one.
 ##Get started!
 
 
-1. Go to repository Pitt Fuego repository: https://https://github.com/sjquigley/pitt-fuego 
+1. Go to repository Pitt Fuego repository: https://https://github.com/sjquigley/pitt-fuego-webtext-generator 
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
@@ -23,11 +23,11 @@ We recommend you begin with one of our starter programs before using this one.
 
 7. Once you have modified and added your files to your project file, you will want to publish to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext. Click  "uploading an existing file," (push) your files into this repository. You'll need ALL of your assets to make your webtext function properly. Upload assets, then hit "Commit changes." 
 
-9. Now go to your repository "settings." Scroll down to "GitHub Pages" and change the setting from "none" to "main." Hit "Save"
+8. Now go to your repository "settings." Scroll down to "GitHub Pages" and change the setting from "none" to "main." Hit "Save"
 
-10. This will provide you with a published GitHub URL.
+9. This will provide you with a published GitHub URL.
 
-11. Test the URL in a browser. Magic, no? Actually, it's computer science.  
+10. Test the URL in a browser. Magic, no? Actually, it's computer science.  
 
 
 Check out our other cool coding tools [HERE](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
