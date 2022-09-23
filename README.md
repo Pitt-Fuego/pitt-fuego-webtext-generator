@@ -1,6 +1,6 @@
 # Pitt Fuego Webtext Generator
 
-Welcome to Pitt Fuego Webtext Generator! This tool allows the user to mix and match div. blocks to build a quick website similar to an Adobe Spark. All of the design elements you need to make a great webtext or presentation are embedded in the document. We've also provided hidden comments to help guide you through the process. 
+Welcome to Pitt Fuego Webtext Generator! This tool allows the user to mix and match div. blocks to build a quick website similar to an Adobe Spark. All of the design elements you need to make a great webtext or presentation are embedded in the document. We've also provided hidden comments to help guide you through the process. See [Video](https://www.youtube.com/watch?v=QzMJtLUncIg)
 
 We recommend you begin with one of our starter programs before using this one. 
     
